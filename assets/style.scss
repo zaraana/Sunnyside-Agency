@@ -218,7 +218,7 @@ header{
 .testimonials{
     width:100%;
     padding: 20 20px;
-    height: 600px;
+    height: 100%;
     text-align: center;
     // background-color: #f9f7ea;
 
@@ -261,6 +261,7 @@ header{
         font-family: Barlow;
         color: grey;
         font-weight: 500;
+        margin-bottom: 20px;
     }
 }
 
@@ -274,6 +275,6 @@ header{
         .img{
             flex: 50%;
             max-width: 50%!important;
-            border: 1px solid red;
+           
         }
 }
